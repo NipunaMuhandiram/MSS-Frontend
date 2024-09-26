@@ -146,7 +146,7 @@ const styles = {
     height: '100vh',
     width: '100vw',
     background: `linear-gradient(110deg, rgba(103, 11, 139, 0.9) 0%, rgba(7, 89, 85, 0.85) 40%, rgba(84, 105, 7, 0.35) 70%, rgba(212, 0, 255, 0.8) 100%), 
-                 url('/images/portrait_disco_woman.jpg')`,
+                 url('/images/background.jpg')`,
     backgroundRepeat: 'no-repeat',
     backgroundSize: 'cover',
     backgroundPosition: 'right bottom',
