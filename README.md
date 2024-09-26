@@ -1,4 +1,3 @@
-
 # Music Streaming Service Frontend
 
 This project is a **Music Streaming Service** frontend built with **Next.js**. It incorporates a dark theme, modular design, and integrates with a backend for user authentication, song recommendations, and playlists management.
@@ -32,6 +31,7 @@ This app is designed to help users discover new music based on their mood or fav
 
 # Folder Structure
 
+```
 src/
 │
 ├── app/
@@ -54,6 +54,7 @@ src/
 │
 └── utils/
     ├── fetchers.js             # Functions to fetch data from APIs (e.g., fetchTopTracks)
+```
 
 # API Integration
 
