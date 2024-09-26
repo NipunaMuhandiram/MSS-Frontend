@@ -69,7 +69,7 @@ src/
 …]()
 ![favaa](https://github.com/user-attachments/assets/3096490f-3a4f-4229-9218-5d7343f5042c)
 ![favp](https://github.com/user-attachments/assets/b8666850-64d5-4418-b92a-f10a0506a478)
-![favt](https://github.com/user-attachments/assets/aa28ffff-5c2f-49f1-a0d9-d3170faf5b0d)
+
 
 # API Integration
 
