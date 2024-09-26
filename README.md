@@ -1,3 +1,4 @@
+
 # Music Streaming Service Frontend
 
 This project is a **Music Streaming Service** frontend built with **Next.js**. It incorporates a dark theme, modular design, and integrates with a backend for user authentication, song recommendations, and playlists management.
@@ -55,6 +56,20 @@ src/
 └── utils/
     ├── fetchers.js             # Functions to fetch data from APIs (e.g., fetchTopTracks)
 ```
+# Snaps 
+![login](https://github.com/user-attachments/assets/dd5237d5-dd31-49d2-b91d-3d53799dbfd6)
+![home1](https://github.com/user-attachments/assets/34f9f142-b483-4c30-a873-297ca31691f4)
+
+![h1](https://github.com/user-attachments/assets/8d107d73-2ed5-469c-80de-8e9cd4ca5c04)
+![pl1](https://github.com/user-attachments/assets/8946831f-08c3-499a-9ebd-2f4458e49944)
+![mood](https://github.com/user-attachments/assets/79f50678-f564-420e-a878-b2f7884f1600)
+![aip](https://github.com/user-attachments/assets/04761df0-0c3b-4594-a0f2-8d34cc82a28f)
+![register](https://github.com/user-attachments/assets/87481503-d963-4f67-a444-43c362d74c89)
+![Uploading favt.jpg![fava](https://github.com/user-attachments/assets/243c3e47-7089-4f47-8e39-dc19fad90e45)
+…]()
+![favaa](https://github.com/user-attachments/assets/3096490f-3a4f-4229-9218-5d7343f5042c)
+![favp](https://github.com/user-attachments/assets/b8666850-64d5-4418-b92a-f10a0506a478)
+![favt](https://github.com/user-attachments/assets/aa28ffff-5c2f-49f1-a0d9-d3170faf5b0d)
 
 # API Integration
 
